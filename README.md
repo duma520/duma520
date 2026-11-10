@@ -99,6 +99,7 @@
 | **[real_time_detection_v1](https://github.com/duma520/real_time_detection_v1)** | 实时变化检测系统：实时检测并标记屏幕区域、应用程序窗口或摄像头画面中的动态变化。 |
 | **[real_time_detection_v2](https://github.com/duma520/real_time_detection_v2)** | 智能变化检测系统 V2 重制版：适用于安防监控、游戏录制、UI 测试与运动分析。 |
 | **[GitHub_Release_Monitor](https://github.com/duma520/GitHub_Release_Monitor)** | GitHub Releases 监控程序：自动检查你关注的仓库是否有新版本发布。 |
+| **[dsh-composer-butler](https://github.com/duma520/dsh-composer-butler)** | DSH 输入框工具栏的显隐总开关：一个「⋯」按钮列出所有插件挂上去的控件，逐项勾选即可隐藏或显示，只隐藏不卸载，状态自动持久化，随时一键全部恢复。 |
 
 ---
 
