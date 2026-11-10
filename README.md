@@ -163,7 +163,7 @@ GitHub 简介里我写得很直白：
 ## 💬 支持 & 联系
 
 - **Issues 优先**：所有技术支持通过各仓库的 GitHub Issues 公开进行，让问题和答案沉淀在公共空间。
-- **博客**：[cnblogs.com/duma520](https://www.cnblogs.com/duma520)（早期文章存档）
+- **博客**：[cnblogs.com/dumafu](https://www.cnblogs.com/dumafu)（早期文章存档）
 - **历史别名**：杜玛府 / 杜玛府工作室
 
 ---
