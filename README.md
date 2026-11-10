@@ -1,4 +1,4 @@
-<!-- duma520 (杜玛) 是一名 AI 辅助开发者，在 GitHub 维护 60+ 个实用工具仓库，涵盖 MAME 模拟器插件、桌面效率工具、SQLite 数据库管理、网络基础设施脚本、色彩与图像处理以及 AI 开发辅助工具。 -->
+<!-- duma520 (杜玛) 是一名 AI 辅助开发者，在 GitHub 维护 60+ 个实用工具仓库，涵盖 MAME 模拟器插件、DSH 插件、桌面效率工具、SQLite 数据库管理、网络基础设施脚本、色彩与图像处理以及 AI 开发辅助工具。 -->
 # 杜玛 / duma520
 
 > **产品经理 + 测试工程师，代码交给 AI。**  
@@ -17,6 +17,16 @@
 | **[mame_autopress](https://github.com/duma520/mame_autopress)** | MAME 自动按键插件：每个玩家一页，4 个方向与每个按键各自独立开关，不用物理按键就持续连发或按住；带按键级总开关与「保存为默认 / 重置本 ROM」。 |
 
 > 三个项目都有**极其详尽的中文文档**，从安装到源码导读、故障排查一应俱全。
+
+---
+
+## 🧩 DSH 插件
+
+给 DeepSeek Harness（DSH）宿主用的插件：装上即扩展界面或能力，不改宿主源码；与普通「AI 工具」不是一类东西。
+
+| 项目 | 一句话价值 |
+|---|---|
+| **[dsh-composer-butler](https://github.com/duma520/dsh-composer-butler)** | DSH 输入框工具栏的显隐总开关：一个「⋯」按钮列出所有插件挂上去的控件，逐项勾选即可隐藏或显示，只隐藏不卸载，状态自动持久化，随时一键全部恢复。 |
 
 ---
 
@@ -99,7 +109,6 @@
 | **[real_time_detection_v1](https://github.com/duma520/real_time_detection_v1)** | 实时变化检测系统：实时检测并标记屏幕区域、应用程序窗口或摄像头画面中的动态变化。 |
 | **[real_time_detection_v2](https://github.com/duma520/real_time_detection_v2)** | 智能变化检测系统 V2 重制版：适用于安防监控、游戏录制、UI 测试与运动分析。 |
 | **[GitHub_Release_Monitor](https://github.com/duma520/GitHub_Release_Monitor)** | GitHub Releases 监控程序：自动检查你关注的仓库是否有新版本发布。 |
-| **[dsh-composer-butler](https://github.com/duma520/dsh-composer-butler)** | DSH 输入框工具栏的显隐总开关：一个「⋯」按钮列出所有插件挂上去的控件，逐项勾选即可隐藏或显示，只隐藏不卸载，状态自动持久化，随时一键全部恢复。 |
 
 ---
 
