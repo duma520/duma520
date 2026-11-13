@@ -81,6 +81,7 @@
 | **[Iperf_GUI](https://github.com/duma520/Iperf_GUI)** | iperf3 图形化工具：完整参数支持、结果可视化、配置保存与历史记录，不用再背命令。 |
 | **[Network_Diagnostic_Tool](https://github.com/duma520/Network_Diagnostic_Tool)** | 网络故障诊断工具：集成系统网络诊断命令，图形化执行测试、排查、性能分析与监控。 |
 | **[port-scanner](https://github.com/duma520/port-scanner)** | 端口扫描工具：多线程扫描指定主机的开放端口并标注端口作用，结果可保存。 |
+| **[Media_Wall](https://github.com/duma520/Media_Wall)** | 家庭局域网媒体海报墙：扫描 NAS 或本地磁盘，按一级子目录自动分分区，生成可拖动海报墙网页；手机/平板/电视扫码即看，支持断点续传、多设备进度同步与回收站。 |
 
 ---
 
