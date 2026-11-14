@@ -82,6 +82,7 @@
 | **[Network_Diagnostic_Tool](https://github.com/duma520/Network_Diagnostic_Tool)** | 网络故障诊断工具：集成系统网络诊断命令，图形化执行测试、排查、性能分析与监控。 |
 | **[port-scanner](https://github.com/duma520/port-scanner)** | 端口扫描工具：多线程扫描指定主机的开放端口并标注端口作用，结果可保存。 |
 | **[Media_Wall](https://github.com/duma520/Media_Wall)** | 家庭局域网媒体海报墙：扫描 NAS 或本地磁盘，按一级子目录自动分分区，生成可拖动海报墙网页；手机/平板/电视扫码即看，支持断点续传、多设备进度同步与回收站。 |
+| **[telegram-channel-archiver](https://github.com/duma520/telegram-channel-archiver)** | Telegram 频道批量归档器：先把频道扫成索引，再按文案/关键词/体积筛选下载；分片断点续传、换代理节点自动重连、重名加时间戳，附自适应单位速度看板与扫码登录。 |
 
 ---
 
