@@ -27,6 +27,10 @@
 | 项目 | 一句话价值 |
 |---|---|
 | **[dsh-composer-butler](https://github.com/duma520/dsh-composer-butler)** | DSH 输入框工具栏的显隐总开关：一个「⋯」按钮列出所有插件挂上去的控件，逐项勾选即可隐藏或显示，只隐藏不卸载，状态自动持久化，随时一键全部恢复。 |
+| **[dsh-push-hub](https://github.com/duma520/dsh-push-hub)** | DSH 推送中枢：一个工具把消息推到微信/飞书/钉钉/企业微信/QQ/Telegram/Slack/Discord/Matrix/群晖 Chat/邮件共 12 个通道，自动分块、限流、失败判定；带发文件、收消息、改消息、撤回、表情、流式消息与进度表情，凭据只存本机不入库。 |
+| **[dsh-notify-sender](https://github.com/duma520/dsh-notify-sender)** | DSH 通知发送器：把本机已接通的 12 类通道账号汇成一个中文列表，勾几个发几个，只发不收、不建连接、不存凭据；每个账号标注「能不能用 / 为什么不能用」，改动实时保存。 |
+| **[dsh-nav-pins](https://github.com/duma520/dsh-nav-pins)** | DSH 侧栏面板：把左侧栏那一列面板图标收成一条 8px 细线，点箭头展开收起；不常用的面板可逐个固定掉，折叠态与固定选择都落盘，重启不丢。 |
+| **[dsh-turn-notify](https://github.com/duma520/dsh-turn-notify)** | DSH 回合通知：每轮对话结束（完成/出错/中断/截断，可选超时/无进展/工具失败/关键词）自动往「通知发送器」已选好的 IM 账号推一条摘要，带冷却、静默时段、排除清单，不用再盯着屏幕等结果。 |
 
 ---
 
@@ -82,7 +86,6 @@
 | **[Network_Diagnostic_Tool](https://github.com/duma520/Network_Diagnostic_Tool)** | 网络故障诊断工具：集成系统网络诊断命令，图形化执行测试、排查、性能分析与监控。 |
 | **[port-scanner](https://github.com/duma520/port-scanner)** | 端口扫描工具：多线程扫描指定主机的开放端口并标注端口作用，结果可保存。 |
 | **[Media_Wall](https://github.com/duma520/Media_Wall)** | 家庭局域网媒体海报墙：扫描 NAS 或本地磁盘，按一级子目录自动分分区，生成可拖动海报墙网页；手机/平板/电视扫码即看，支持断点续传、多设备进度同步与回收站。 |
-| **[telegram-channel-archiver](https://github.com/duma520/telegram-channel-archiver)** | Telegram 频道批量归档器：先把频道扫成索引，再按文案/关键词/体积筛选下载；分片断点续传、换代理节点自动重连、重名加时间戳，附自适应单位速度看板与扫码登录。 |
 
 ---
 
