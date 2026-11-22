@@ -31,6 +31,8 @@
 | **[dsh-notify-sender](https://github.com/duma520/dsh-notify-sender)** | DSH 通知发送器：把本机已接通的 12 类通道账号汇成一个中文列表，勾几个发几个，只发不收、不建连接、不存凭据；每个账号标注「能不能用 / 为什么不能用」，改动实时保存。 |
 | **[dsh-nav-pins](https://github.com/duma520/dsh-nav-pins)** | DSH 侧栏面板：把左侧栏那一列面板图标收成一条 8px 细线，点箭头展开收起；不常用的面板可逐个固定掉，折叠态与固定选择都落盘，重启不丢。 |
 | **[dsh-turn-notify](https://github.com/duma520/dsh-turn-notify)** | DSH 回合通知：每轮对话结束（完成/出错/中断/截断，可选超时/无进展/工具失败/关键词/等你回答）自动往「通知发送器」已选好的 IM 账号推一条摘要；Agent 弹提问时列出全部选项并给推荐项打 ⭐（只提醒不代答）。带冷却、静默时段、排除清单，不用再盯着屏幕等结果。 |
+| **[dsh-session-manager-patch](https://github.com/duma520/dsh-session-manager-patch)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[dsh-tg-archiver](https://github.com/duma520/dsh-tg-archiver)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -61,6 +63,7 @@
 | **[System_Monitor](https://github.com/duma520/System_Monitor)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[Window_Capture_Plugin](https://github.com/duma520/Window_Capture_Plugin)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[Window_Capture_Tester](https://github.com/duma520/Window_Capture_Tester)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Windows_Update_Pauser](https://github.com/duma520/Windows_Update_Pauser)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -191,6 +194,8 @@
 | **[M3U_Live_Editor](https://github.com/duma520/M3U_Live_Editor)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[MapLocator](https://github.com/duma520/MapLocator)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[Visit_Website](https://github.com/duma520/Visit_Website)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[GUI_TEST](https://github.com/duma520/GUI_TEST)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[XMLPrekit](https://github.com/duma520/XMLPrekit)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
