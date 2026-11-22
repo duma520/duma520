@@ -41,6 +41,7 @@
 | **[Mahjong_Calculator](https://github.com/duma520/Mahjong_Calculator)** | 国标麻将算番器：81 番种全支持，输入手牌即出番数与听牌，含番表、手机/平板 Web 版与命令行 API。 |
 | **[DaxiaSaveEditor](https://github.com/duma520/DaxiaSaveEditor)** | 《大侠狂想曲》存档修改器：免费开源，用来修改单机游戏存档。 |
 | **[LingShouSaveEditor](https://github.com/duma520/LingShouSaveEditor)** | 《灵兽江湖》存档修改器：修改的目的是增加乐趣而非剥夺乐趣，合理使用。 |
+| **[GamepadDisplay](https://github.com/duma520/GamepadDisplay)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -55,6 +56,9 @@
 | **[Schedule_Manager](https://github.com/duma520/Schedule_Manager)** | 排班表管理系统：日历 + 列表双视图，适用于医院、工厂、餐厅、零售等排班场景。 |
 | **[IntervalTracker](https://github.com/duma520/IntervalTracker)** | 间隔追踪器：记录什么时间做了什么，自动计算两次记录的时间间隔，用间隔洞察规律。 |
 | **[KeyForge](https://github.com/duma520/KeyForge)** | 后台按键测试工具：向已最小化或后台运行的窗口发送按键，不干扰当前鼠标键盘操作。 |
+| **[Alarm_Clock_App](https://github.com/duma520/Alarm_Clock_App)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[SpeedMonitor](https://github.com/duma520/SpeedMonitor)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[System_Monitor](https://github.com/duma520/System_Monitor)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -72,6 +76,7 @@
 | **[Hex_Viewer](https://github.com/duma520/Hex_Viewer)** | 多文件十六进制比对工具：并排十六进制视图 + 差异高亮，适合逆向与数字取证。 |
 | **[Finance_App](https://github.com/duma520/Finance_App)** | 人民币收支管理系统：记录收入、支出、借款与还款，并对账目做数据分析。 |
 | **[MenuManager](https://github.com/duma520/MenuManager)** | 高级点菜管理系统：菜单管理、订单处理、支付结算与数据分析一体，PyQt5 跨平台。 |
+| **[Hex_Record_App](https://github.com/duma520/Hex_Record_App)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -86,6 +91,14 @@
 | **[Network_Diagnostic_Tool](https://github.com/duma520/Network_Diagnostic_Tool)** | 网络故障诊断工具：集成系统网络诊断命令，图形化执行测试、排查、性能分析与监控。 |
 | **[port-scanner](https://github.com/duma520/port-scanner)** | 端口扫描工具：多线程扫描指定主机的开放端口并标注端口作用，结果可保存。 |
 | **[Media_Wall](https://github.com/duma520/Media_Wall)** | 家庭局域网媒体海报墙：扫描 NAS 或本地磁盘，按一级子目录自动分分区，生成可拖动海报墙网页；手机/平板/电视扫码即看，支持断点续传、多设备进度同步与回收站。 |
+| **[AccessWorker](https://github.com/duma520/AccessWorker)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[BluetoothScanner](https://github.com/duma520/BluetoothScanner)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Check_ble_name_change](https://github.com/duma520/Check_ble_name_change)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[DHCPDetectorGUI](https://github.com/duma520/DHCPDetectorGUI)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[ONVIFCameraScanner](https://github.com/duma520/ONVIFCameraScanner)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[telegram-channel-archiver](https://github.com/duma520/telegram-channel-archiver)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[UPnPMirror](https://github.com/duma520/UPnPMirror)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[UPnPReceiver](https://github.com/duma520/UPnPReceiver)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -98,6 +111,7 @@
 | **[ProcessManager_app](https://github.com/duma520/ProcessManager_app)** | Windows 进程管理工具：查看、管理和控制系统上运行的所有进程。 |
 | **[MD5CalculatorApp](https://github.com/duma520/MD5CalculatorApp)** | 多算法哈希计算工具：MD5/SHA1/SHA256/SHA512，支持文本、单文件、多文件与整目录批量计算。 |
 | **[Cachefly_Enum](https://github.com/duma520/Cachefly_Enum)** | CacheFly 文件枚举检测工具：从 1MB 到 10TB+ 探测 CDN 测试文件的存在性与响应速度。 |
+| **[DeepSeek_Key_Manager](https://github.com/duma520/DeepSeek_Key_Manager)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -114,6 +128,13 @@
 | **[real_time_detection_v1](https://github.com/duma520/real_time_detection_v1)** | 实时变化检测系统：实时检测并标记屏幕区域、应用程序窗口或摄像头画面中的动态变化。 |
 | **[real_time_detection_v2](https://github.com/duma520/real_time_detection_v2)** | 智能变化检测系统 V2 重制版：适用于安防监控、游戏录制、UI 测试与运动分析。 |
 | **[GitHub_Release_Monitor](https://github.com/duma520/GitHub_Release_Monitor)** | GitHub Releases 监控程序：自动检查你关注的仓库是否有新版本发布。 |
+| **[AccelerationApp](https://github.com/duma520/AccelerationApp)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[AI_Model_Train](https://github.com/duma520/AI_Model_Train)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[CPUAccelerationDetector](https://github.com/duma520/CPUAccelerationDetector)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[CPU_Accelerator](https://github.com/duma520/CPU_Accelerator)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[DeepSeek_Balance_Monitor](https://github.com/duma520/DeepSeek_Balance_Monitor)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[FaceRecognitionSystem](https://github.com/duma520/FaceRecognitionSystem)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[GPU_Accelerator](https://github.com/duma520/GPU_Accelerator)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -133,6 +154,13 @@
 | **[ImageManagerApp](https://github.com/duma520/ImageManagerApp)** | 图片管理系统：高效组织、管理和检索图片资源，面向家庭、摄影与设计场景。 |
 | **[ScreenToGIF](https://github.com/duma520/ScreenToGIF)** | 屏幕录制转 GIF 工具：捕获指定屏幕区域，多线程处理帧，支持实时预览与帧编辑。 |
 | **[QRCodeDecoder](https://github.com/duma520/QRCodeDecoder)** | 二维码/条形码解码工具：跨平台图形界面，一键解码各类二维码与条形码。 |
+| **[AV_Wall](https://github.com/duma520/AV_Wall)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Color_Generator_App](https://github.com/duma520/Color_Generator_App)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Color_Namer_App_v1](https://github.com/duma520/Color_Namer_App_v1)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[DeMosaic](https://github.com/duma520/DeMosaic)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Floor_Plan_Editor](https://github.com/duma520/Floor_Plan_Editor)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Heatmap_Analyzer](https://github.com/duma520/Heatmap_Analyzer)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Image_Diff_Tool](https://github.com/duma520/Image_Diff_Tool)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -148,12 +176,28 @@
 | **[Test_Taskbar_Progress](https://github.com/duma520/Test_Taskbar_Progress)** | Windows 任务栏进度条测试程序：演示在任务栏直接显示操作进度的效果。 |
 | **[DeepSeekFishPet](https://github.com/duma520/DeepSeekFishPet)** | DeepSeek 肥鱼娘桌宠：一只住在 Windows 桌面上的小鲸鱼拟人少女。 |
 | **[Readme](https://github.com/duma520/Readme)** | 个人杂记与资料汇总仓库：把有用的东西集中起来，方便自己查阅〔本地未找到同名目录〕。 |
+| **[Auto_Adjust_Thread](https://github.com/duma520/Auto_Adjust_Thread)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[ICCardAnalyzerApp](https://github.com/duma520/ICCardAnalyzerApp)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[NFCScanner](https://github.com/duma520/NFCScanner)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[PAC_Studio](https://github.com/duma520/PAC_Studio)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Process_Selection_Dialog](https://github.com/duma520/Process_Selection_Dialog)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[RGB_Generator_App](https://github.com/duma520/RGB_Generator_App)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
 > 带〔本地未找到同名目录〕标注的条目，表示该仓库在本地 `G:\Python_Code` 下没有同名项目目录（可能归档在别处或仅线上维护）。
 
 ---
+
+## 🎵 音频 & 媒体处理
+
+| 项目 | 一句话价值 |
+| --- | --- |
+| **[Advanced_Music_Converter](https://github.com/duma520/Advanced_Music_Converter)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Audio2Score](https://github.com/duma520/Audio2Score)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[AudioToTextConverter](https://github.com/duma520/AudioToTextConverter)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Audio_Editor](https://github.com/duma520/Audio_Editor)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Process_Audio_Capturer](https://github.com/duma520/Process_Audio_Capturer)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ## 🧠 关于我的开发方式
 
