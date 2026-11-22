@@ -59,6 +59,8 @@
 | **[Alarm_Clock_App](https://github.com/duma520/Alarm_Clock_App)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[SpeedMonitor](https://github.com/duma520/SpeedMonitor)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[System_Monitor](https://github.com/duma520/System_Monitor)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Window_Capture_Plugin](https://github.com/duma520/Window_Capture_Plugin)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Window_Capture_Tester](https://github.com/duma520/Window_Capture_Tester)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -77,6 +79,7 @@
 | **[Finance_App](https://github.com/duma520/Finance_App)** | 人民币收支管理系统：记录收入、支出、借款与还款，并对账目做数据分析。 |
 | **[MenuManager](https://github.com/duma520/MenuManager)** | 高级点菜管理系统：菜单管理、订单处理、支付结算与数据分析一体，PyQt5 跨平台。 |
 | **[Hex_Record_App](https://github.com/duma520/Hex_Record_App)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Vision_Recorder](https://github.com/duma520/Vision_Recorder)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -99,6 +102,8 @@
 | **[telegram-channel-archiver](https://github.com/duma520/telegram-channel-archiver)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[UPnPMirror](https://github.com/duma520/UPnPMirror)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[UPnPReceiver](https://github.com/duma520/UPnPReceiver)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Proxy_Manager_Studio](https://github.com/duma520/Proxy_Manager_Studio)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[UPnPWindows](https://github.com/duma520/UPnPWindows)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -112,6 +117,7 @@
 | **[MD5CalculatorApp](https://github.com/duma520/MD5CalculatorApp)** | 多算法哈希计算工具：MD5/SHA1/SHA256/SHA512，支持文本、单文件、多文件与整目录批量计算。 |
 | **[Cachefly_Enum](https://github.com/duma520/Cachefly_Enum)** | CacheFly 文件枚举检测工具：从 1MB 到 10TB+ 探测 CDN 测试文件的存在性与响应速度。 |
 | **[DeepSeek_Key_Manager](https://github.com/duma520/DeepSeek_Key_Manager)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Multi-process_Keystroke_Emulator](https://github.com/duma520/Multi-process_Keystroke_Emulator)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
@@ -182,6 +188,9 @@
 | **[PAC_Studio](https://github.com/duma520/PAC_Studio)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[Process_Selection_Dialog](https://github.com/duma520/Process_Selection_Dialog)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[RGB_Generator_App](https://github.com/duma520/RGB_Generator_App)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[M3U_Live_Editor](https://github.com/duma520/M3U_Live_Editor)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[MapLocator](https://github.com/duma520/MapLocator)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
+| **[Visit_Website](https://github.com/duma520/Visit_Website)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 
 ---
 
