@@ -137,6 +137,7 @@
 | **[real_time_detection_v1](https://github.com/duma520/real_time_detection_v1)** | 实时变化检测系统：实时检测并标记屏幕区域、应用程序窗口或摄像头画面中的动态变化。 |
 | **[real_time_detection_v2](https://github.com/duma520/real_time_detection_v2)** | 智能变化检测系统 V2 重制版：适用于安防监控、游戏录制、UI 测试与运动分析。 |
 | **[GitHub_Release_Monitor](https://github.com/duma520/GitHub_Release_Monitor)** | GitHub Releases 监控程序：自动检查你关注的仓库是否有新版本发布。 |
+| **[vol_connect_workbuddy](https://github.com/duma520/vol_connect_workbuddy)** | 火山软件开发平台（voldev）的 WorkBuddy 多账号中继：把火山 Codex 接到 WorkBuddy，额度用完自动换号、登录过期自动刷新，做 Responses⇄Chat 协议转换，含 25 个上游真实模型与 PySide6 中文控制面板。 |
 | **[AccelerationApp](https://github.com/duma520/AccelerationApp)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[AI_Model_Train](https://github.com/duma520/AI_Model_Train)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
 | **[CPUAccelerationDetector](https://github.com/duma520/CPUAccelerationDetector)** | Python 桌面工具，仓库含完整可运行源码与中文文档，按 README 即可上手。 |
