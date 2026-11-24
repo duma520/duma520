@@ -40,7 +40,7 @@
 
 | 项目 | 一句话价值 |
 |---|---|
-| **[Mahjong_Calculator](https://github.com/duma520/Mahjong_Calculator)** | 国标麻将算番器：81 番种全支持，输入手牌即出番数与听牌，含番表、手机/平板 Web 版与命令行 API。 |
+| **[Mahjong_Calculator](https://github.com/duma520/Mahjong_Calculator)** | 国标麻将算番器：81 番种全支持，输入手牌即出番数与听牌，含番表、实时战绩大屏看板（可投电视，也有网页版给当贝盒子/手机直接开浏览器看）、Web 版与命令行 API。 |
 | **[DaxiaSaveEditor](https://github.com/duma520/DaxiaSaveEditor)** | 《大侠狂想曲》存档修改器：免费开源，用来修改单机游戏存档。 |
 | **[LingShouSaveEditor](https://github.com/duma520/LingShouSaveEditor)** | 《灵兽江湖》存档修改器：修改的目的是增加乐趣而非剥夺乐趣，合理使用。 |
 | **[GamepadDisplay](https://github.com/duma520/GamepadDisplay)** | 手柄状态监视器：把 Xbox / PS / Switch 手柄的每个按键、摇杆坐标、十字键与扳机实时画在界面上，按键可改名、布局可换，支持多套预设方案并自动保存；调键位、排手柄故障、做教程截图时一眼看清手柄到底在报什么。 |
