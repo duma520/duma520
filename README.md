@@ -33,6 +33,7 @@
 | **[dsh-turn-notify](https://github.com/duma520/dsh-turn-notify)** | DSH 回合通知：每轮对话结束（完成/出错/中断/截断，可选超时/无进展/工具失败/关键词/等你回答）自动往「通知发送器」已选好的 IM 账号推一条摘要；Agent 弹提问时列出全部选项并给推荐项打 ⭐（只提醒不代答）。带冷却、静默时段、排除清单，不用再盯着屏幕等结果。 |
 | **[dsh-session-manager-patch](https://github.com/duma520/dsh-session-manager-patch)** | DSH 会话管理器上限热修补丁：放开 dsh-session-manager 0.7.8 写死的「批量操作最多 200 项」，装好后可一次勾选全部会话做批量删除、导出、移动，不用再分批点十几次；以补丁形式覆盖，卸载即恢复原样。 |
 | **[dsh-tg-archiver](https://github.com/duma520/dsh-tg-archiver)** | DSH 版 Telegram 频道归档工具：把 telegram-channel-archiver 命令行封装成 5 个原生工具（环境自检 / 看下载进度 / 扫频道索引 / 启停下载 / 建归档任务），在对话里直接下整频道的视频与文件，不用记命令行参数、不用一直开着终端。 |
+| **[dsh-run2skill](https://github.com/duma520/dsh-run2skill)** | DSH 技能自动沉淀：把会话里你明确说「以后都这样」的做事方式，抽成可审核、可回滚的原生 Skill；带自有 JSONL 日志、运行代际自检（改了没重启会提示）、技能召回遥测（近 30 天谁被喂给过模型）、发布历史快照（每个 Skill 留 3 版可回滚）。 |
 
 ---
 
